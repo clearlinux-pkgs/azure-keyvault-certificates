@@ -4,7 +4,7 @@
 #
 Name     : azure-keyvault-certificates
 Version  : 4.1.0
-Release  : 7
+Release  : 8
 URL      : https://files.pythonhosted.org/packages/91/ed/7fe3194cfd4bc7b6beccdc19cc5a1486c36451500b2671045ec44023f031/azure-keyvault-certificates-4.1.0.zip
 Source0  : https://files.pythonhosted.org/packages/91/ed/7fe3194cfd4bc7b6beccdc19cc5a1486c36451500b2671045ec44023f031/azure-keyvault-certificates-4.1.0.zip
 Summary  : Microsoft Azure Key Vault Certificates Client Library for Python
